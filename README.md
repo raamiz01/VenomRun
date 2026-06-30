@@ -80,8 +80,8 @@ On startup, `Main` initializes the leaderboard tables (if they don't already exi
 
 ## Authors
 
-Raamiz Abrar, Arham Rashad, Noah Hunt, Abbas Haider
+Raamiz Abrar
 
 ## License
 
-No license specified yet. Add one (e.g. MIT) if you plan to share this publicly.
+N/A
